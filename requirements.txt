@@ -1,5 +1,5 @@
 streamlit
-google-geai
+google-genai
 python-dotenv
 pypdf
 chromadb
