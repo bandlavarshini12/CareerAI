@@ -1,0 +1,58 @@
+[
+  {
+    "career": "Python Developer",
+    "icon": "🐍",
+    "skills": ["Python", "Django", "FastAPI", "Flask", "SQL", "PostgreSQL", "REST APIs", "Git", "pytest", "HTML", "CSS"],
+    "interests": ["Programming", "Web Development", "Backend Development"],
+    "roadmap": ["Python", "OOP", "SQL", "Django", "Projects", "Git", "Interviews"]
+  },
+  {
+    "career": "Data Scientist",
+    "icon": "📊",
+    "skills": ["Python", "NumPy", "Pandas", "scikit-learn", "ML", "SQL", "Statistics", "Matplotlib", "Seaborn", "Jupyter"],
+    "interests": ["Data Science", "Machine Learning", "Analytics"],
+    "roadmap": ["Python", "NumPy/Pandas", "Statistics", "ML", "Datasets", "ML Projects", "Visualization"]
+  },
+  {
+    "career": "Machine Learning Engineer",
+    "icon": "🤖",
+    "skills": ["Python", "ML", "NumPy", "Pandas", "scikit-learn", "TensorFlow", "PyTorch", "SQL", "Git", "Docker", "MLOps"],
+    "interests": ["Machine Learning", "AI", "Deep Learning"],
+    "roadmap": ["Python", "Mathematics", "ML", "Deep Learning", "TensorFlow", "Projects", "Deployment"]
+  },
+  {
+    "career": "Full Stack Developer",
+    "icon": "🌐",
+    "skills": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Python", "Django", "Node.js", "SQL", "PostgreSQL", "REST APIs", "Git"],
+    "interests": ["Web Development", "Programming", "Frontend Development"],
+    "roadmap": ["HTML", "CSS", "JavaScript", "Python", "Django", "SQL", "Full Stack Projects"]
+  },
+  {
+    "career": "AI Engineer",
+    "icon": "🧠",
+    "skills": ["Python", "ML", "Deep Learning", "TensorFlow", "PyTorch", "NLP", "Computer Vision", "LLM APIs", "Git", "Docker"],
+    "interests": ["AI", "Machine Learning", "Deep Learning"],
+    "roadmap": ["Python", "ML", "Deep Learning", "NLP", "GenAI", "AI Apps", "Deployment"]
+  },
+  {
+    "career": "Data Analyst",
+    "icon": "📈",
+    "skills": ["Python", "Pandas", "SQL", "Excel", "Statistics", "Power BI", "Tableau", "Matplotlib", "Jupyter"],
+    "interests": ["Data Analysis", "Analytics", "Business Intelligence"],
+    "roadmap": ["Excel", "SQL", "Python", "Pandas", "Statistics", "Visualization", "Projects"]
+  },
+  {
+    "career": "Cloud Engineer",
+    "icon": "☁️",
+    "skills": ["Python", "Linux", "AWS", "Azure", "GCP", "Docker", "Kubernetes", "Terraform", "Networking", "Git"],
+    "interests": ["Cloud Computing", "DevOps", "Infrastructure"],
+    "roadmap": ["Linux", "Networking", "AWS", "Docker", "Git", "CI/CD", "Deployment"]
+  },
+  {
+    "career": "DevOps Engineer",
+    "icon": "⚙️",
+    "skills": ["Linux", "Bash", "Git", "Docker", "AWS", "Python", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions", "CI/CD", "Prometheus"],
+    "interests": ["DevOps", "Cloud Computing", "Automation"],
+    "roadmap": ["Linux", "Git", "Docker", "AWS", "CI/CD", "Kubernetes", "Pipelines"]
+  }
+]

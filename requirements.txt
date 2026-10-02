@@ -1,0 +1,5 @@
+streamlit
+google-geai
+python-dotenv
+pypdf
+chromadb
